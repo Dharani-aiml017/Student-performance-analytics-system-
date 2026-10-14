@@ -1,7 +1,8 @@
-# Student Performance Analytics System
 
+#project title 
+**Student Performance Analytics System
 **Student:** Ediga Dharani  
-**Branch:** B.Tech – Artificial Intelligence and Machine Learning (AIML)
+**Branch:** B.Tech – CSE(AIML)
 
 ## Objective
 Analyze student marks and attendance using Python, NumPy, and Pandas.
@@ -26,11 +27,6 @@ Analyze student marks and attendance using Python, NumPy, and Pandas.
 - Calculates student-wise average marks.
 - Summarizes subject averages and attendance.
 - Displays a concise terminal summary.
-
-## How to Run
-1. Install Python 3.
-2. Run `pip install -r requirements.txt`.
-3. Run `python main.py`.
 
 ## Final Outcome
 The project demonstrates a basic student-data analysis workflow using Python, NumPy, and Pandas.
