@@ -35,4 +35,4 @@ The project demonstrates a basic student-data analysis workflow using Python, Nu
 Practice in CSV loading, data validation, DataFrame operations, numerical calculations, and organizing project files for GitHub.
 
 ## GitHub Repository
-https://github.com/Dharani-diploma/Student-Performance-Analytics-System
+https://github.com/Dharani-aiml017/Student-Performance-Analytics-System
